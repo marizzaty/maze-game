@@ -43,7 +43,7 @@ if first_step == "straight":
       print ("\nYou managed to get out!!\n Congratulations!")
 
     elif third_step == "silver":
-      print ("\nLots! Lots of hungry wolves.\nLooks like they able to feed their hunger.\nGAME OVER!")
+      print ("\nLots! Lots of hungry wolves.\nLooks like they will be able to feed their hunger.\nGAME OVER!")
 
     else:
       print ("\nAhh, all your deepest dream came true.\nYou stuck in illusion that you cannot get out.\nGAME OVER!")
